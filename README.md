@@ -43,7 +43,7 @@ A list of useless stuff to spend time on
 
 <li> <a href="https://matias.ma/nsfw/" target="_blank">CONGA! </a> </li>
 
-<li> <a href="https://www.playphrase.me/" target="_blank"> </a> Movies Phrases  </li>
+<li> <a href="https://www.playphrase.me/" target="_blank"> Movies Phrases</a>   </li>
 
 <li> <a href="https://starlink.sx/" target="_blank"> Starlink </a> </li>
 
