@@ -96,7 +96,7 @@ A list of useless stuff to spend time on
 
 <li> <a href="http://www.falstad.com/circuit/?ref=cloudhiker.net" target="_blank">Circuits</a> </li>
 
-<li> <a href="[https://cloudhiker.net/explore](https://www.opte.org/the-internet)" target="_blank">Internet History </a> </li>
+<li> <a href="https://www.opte.org/the-internet" target="_blank">Internet History </a> </li>
 
 <li> <a href="https://thisbuttondoesnothing.com/?ref=cloudhiker.net" target="_blank"> Nothing</a> </li>
 
