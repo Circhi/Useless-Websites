@@ -54,6 +54,39 @@ A list of useless stuff to spend time on
 
 <li> <a href="https://musclewiki.com/" target="_blank">Muscle Wiki</a> </li>
 
+<li> <a href="https://www.arduino.cc/" target="_blank"> Arduino</a> </li>
+
+<li> <a href="https://create.arduino.cc/projecthub" target="_blank"> Arduino Projects</a> </li>
+
+<li> <a href="https://winworldpc.com/library/operating-systems" target="_blank"> Old OS</a> </li>
+
+<li> <a href="https://www.raspberrypi.org/" target="_blank">Rasperrypi</a> </li>
+
+<li> <a href="https://briefs.video/?ref=cloudhiker.net" target="_blank"> Briefs Tech</a> </li>
+
+<li> <a href="https://fakeupdate.net/?ref=cloudhiker.net" target="_blank"> Fake updates</a> </li>
+
+
+<li> <a href="http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/?ref=cloudhiker.net" target="_blank"> Spiders</a> </li>
+
+
+<li> <a href="https://www.kubrick2001.com/en/1/index.html" target="_blank"> 2001 a Space Odyssey </a> </li>
+
+<li> <a href="https://sketchywebsite.net/?ref=cloudhiker.net" target="_blank"> Errors</a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
 <li> <a href="" target="_blank"> </a> </li>
 
 <li> <a href="" target="_blank"> </a> </li>
@@ -63,3 +96,7 @@ A list of useless stuff to spend time on
 <li> <a href="" target="_blank"> </a> </li>
 
 <li> <a href="" target="_blank"> </a> </li>
+
+<li> <a href="" target="_blank"> </a> </li>
+
+
