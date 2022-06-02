@@ -50,9 +50,9 @@ A list of useless stuff to spend time on
 <li> <a href="https://online-video-cutter.com/" target="_blank">Free Video Trimmer </a> </li>
 
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://bongo.cat/" target="_blank"> BONGO!</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://musclewiki.com/" target="_blank">Muscle Wiki</a> </li>
 
 <li> <a href="" target="_blank"> </a> </li>
 
