@@ -74,29 +74,30 @@ A list of useless stuff to spend time on
 
 <li> <a href="https://sketchywebsite.net/?ref=cloudhiker.net" target="_blank"> Errors</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="http://www.imfdb.org/wiki/Main_Page" target="_blank">Guns in Movies </a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://www.hackster.io/" target="_blank"> Tech projects</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://www.howtoforge.com/" target="_blank"> Linux Tut</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://www.rtings.com/" target="_blank"> Products Ratings</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://o.mg.lol/" target="_blank">Buy hacker </a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://www.heavensgate.com/" target="_blank">Heaven's gates </a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://acolumbinesite.com/" target="_blank">Columbine Documentation </a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://haxrelm.neocities.org/?ref=cloudhiker.net" target="_blank"> Another random website</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://cursordisco.ytmnd.com/?ref=cloudhiker.net" target="_blank"> DISCO!</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="https://lab.nationalmedals.org/?ref=cloudhiker.net#" target="_blank"> Super Cool experiments</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="http://www.falstad.com/circuit/?ref=cloudhiker.net" target="_blank">Circuits</a> </li>
 
-<li> <a href="" target="_blank"> </a> </li>
+<li> <a href="[https://cloudhiker.net/explore](https://www.opte.org/the-internet)" target="_blank">Internet History </a> </li>
+
+<li> <a href="https://thisbuttondoesnothing.com/?ref=cloudhiker.net" target="_blank"> Nothing</a> </li>
 
 
