@@ -100,4 +100,20 @@ A list of useless stuff to spend time on
 
 <li> <a href="https://thisbuttondoesnothing.com/?ref=cloudhiker.net" target="_blank"> Nothing</a> </li>
 
+https://trumplings.com/
 
+http://www.altexxanet.org/about.html
+
+http://coffeeshopwifi.com/
+
+https://nopaste.ml/
+
+https://set.studio/
+
+https://animagraffs.com/wankel-rotary-engine/
+
+https://duotones.co/
+
+https://geocities.restorativland.org/
+
+https://sosaplayhouse.com/
